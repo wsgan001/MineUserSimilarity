@@ -1,0 +1,8 @@
+Name;Yonsei
+Type;SP
+InputPath;C:\Documents and Settings\Ruipeng Lu\My Documents\workspace\data\YonseiDataset
+OutputPath;C:\Documents and Settings\Ruipeng Lu\My Documents\workspace\data\OutputYonsei
+Name;Geolife
+Type;GPS
+InputPath;C:\Documents and Settings\Ruipeng Lu\My Documents\workspace\data\GeolifeDataset
+OutputPath;C:\Documents and Settings\Ruipeng Lu\My Documents\workspace\data\OutputGeolife
